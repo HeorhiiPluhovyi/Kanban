@@ -1,0 +1,21 @@
+.tasks {
+  padding: 16px 0;
+  overflow: hidden;
+  min-height: 600px;
+  display: block;
+
+  &--task {
+    background-color: rgba(250, 235, 215, 0.708);
+    padding: 20px 10px;
+    border-radius: 4px;
+    box-shadow: 1px 5px 5px rgba(27, 61, 65, 0.26);
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    cursor: move;
+    background: rgba(255, 255, 255, 0.46);
+  }
+}

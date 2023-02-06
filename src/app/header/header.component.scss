@@ -1,0 +1,15 @@
+$height: 60px;
+
+.header {
+  height: $height;
+  background-color: rgba(27, 61, 65, 0.5);
+  backdrop-filter: blur(2px);
+  margin-bottom: 20px;
+
+  &__name {
+    color: rgba(0, 255, 255, 0.77);
+    display: block;
+    box-sizing: content-box;
+    line-height: $height - 4;
+  }
+}
