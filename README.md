@@ -1,4 +1,6 @@
 # Kanban
+![image](https://user-images.githubusercontent.com/95225321/217057982-ad500ecf-95c1-44c8-94c0-2037e8853f59.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
